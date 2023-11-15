@@ -1,4 +1,4 @@
-import { HoverImageDrop, HoverRandomText } from 'vanya'
+import { HoverRandomText } from 'vanya'
 
 function App() {
     return (<div>
